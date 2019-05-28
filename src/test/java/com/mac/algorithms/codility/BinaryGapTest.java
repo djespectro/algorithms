@@ -1,5 +1,6 @@
-package com.mac.algorithms.codility.iterations;
+package com.mac.algorithms.codility;
 
+import com.mac.algorithms.codility.iterations.BinaryGap;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
