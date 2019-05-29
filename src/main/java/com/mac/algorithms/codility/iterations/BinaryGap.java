@@ -12,9 +12,7 @@ representation 1111 and has no binary gaps. The number 32 has binary representat
 Write a function:
 
 class Solution { public int solution(int N); }
-
 that, given a positive integer N, returns the length of its longest binary gap. The function should return 0 if N
-
 doesn't contain a binary gap.
 
 For example, given N = 1041 the function should return 5, because N has binary representation 10000010001 and so its
