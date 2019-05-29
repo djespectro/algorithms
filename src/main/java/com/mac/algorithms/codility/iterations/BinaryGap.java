@@ -1,4 +1,4 @@
-package com.mac.algorithms.codility.iterations;
+package main.java.com.mac.algorithms.codility.iterations;
 
 /*
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at
