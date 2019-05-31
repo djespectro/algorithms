@@ -48,7 +48,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.binarysearch;
+package com.mac.algorithms.codilitysolution.binarysearch;
 
 import java.util.Arrays;
 

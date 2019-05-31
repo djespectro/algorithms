@@ -20,7 +20,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.countingelements;
+package com.mac.algorithms.codilitysolution.countingelements;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;

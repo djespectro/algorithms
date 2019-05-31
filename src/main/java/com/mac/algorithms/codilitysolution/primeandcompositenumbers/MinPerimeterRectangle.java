@@ -19,7 +19,7 @@
  */
 
 //Score: 100/100
-package com.mac.codilitysolution.primeandcompositenumbers;
+package com.mac.algorithms.codilitysolution.primeandcompositenumbers;
 
 public class MinPerimeterRectangle {
 

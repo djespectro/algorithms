@@ -32,7 +32,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.prefixsums;
+package com.mac.algorithms.codilitysolution.prefixsums;
 
 public class PassingCars {
 	public static void main(String[] args) {

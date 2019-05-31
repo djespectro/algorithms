@@ -1,4 +1,4 @@
-package main.java.com.mac.algorithms.codility.arrays;
+package com.mac.algorithms.codility.arrays;
 
 import java.util.Arrays;
 

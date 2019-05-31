@@ -36,14 +36,14 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.countingelements;
+package com.mac.algorithms.codilitysolution.countingelements;
 
 import java.util.Arrays;
 
 public class PermCheck {
 
 	public static void main(String[] args) {
-		int[] A = new int[]{5,3,4,1,2,2,6};
+		int[] A = new int[]{1};
 		System.out.println(solution(A));
 	}
 	public static int solution(int[] A) {

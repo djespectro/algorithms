@@ -29,7 +29,7 @@
  */
 
 //SCORE: 100/62
-package com.mac.codilitysolution.sorting;
+package com.mac.algorithms.codilitysolution.sorting;
 
 public class NumberOfDiscIntersection {
 	public static void main (String[] args) {

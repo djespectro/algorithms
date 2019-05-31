@@ -31,7 +31,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.caterpillar;
+package com.mac.algorithms.codilitysolution.caterpillar;
 
 public class CountDistinctSlices {
 	

@@ -38,7 +38,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.sieveoferastothenes;
+package com.mac.algorithms.codilitysolution.sieveoferastothenes;
 
 import java.util.Arrays;
 

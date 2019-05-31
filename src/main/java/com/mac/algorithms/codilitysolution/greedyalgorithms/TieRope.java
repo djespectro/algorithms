@@ -39,7 +39,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.greedyalgorithms;
+package com.mac.algorithms.codilitysolution.greedyalgorithms;
 
 public class TieRope {
 	public static void main (String[] args) {

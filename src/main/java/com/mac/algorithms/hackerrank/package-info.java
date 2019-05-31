@@ -1,1 +1,1 @@
-package hackerrank;
+package com.mac.algorithms.hackerrank;

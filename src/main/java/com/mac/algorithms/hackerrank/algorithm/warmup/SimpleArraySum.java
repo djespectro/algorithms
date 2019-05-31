@@ -1,4 +1,4 @@
-package hackerrank.warmup;
+package com.mac.algorithms.hackerrank.algorithm.warmup;
 
 import java.util.Arrays;
 

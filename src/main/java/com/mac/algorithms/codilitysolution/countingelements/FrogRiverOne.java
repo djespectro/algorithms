@@ -36,7 +36,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.countingelements;
+package com.mac.algorithms.codilitysolution.countingelements;
 
 public class FrogRiverOne {
 

@@ -24,7 +24,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.caterpillar;
+package com.mac.algorithms.codilitysolution.caterpillar;
 
 import java.util.Arrays;
 

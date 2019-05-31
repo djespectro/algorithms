@@ -34,7 +34,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.timecomplexity;
+package com.mac.algorithms.codilitysolution.timecomplexity;
 
 public class TapeEquilibrium {
 

@@ -33,7 +33,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.sorting;
+package com.mac.algorithms.codilitysolution.sorting;
 
 import java.util.Arrays;
 

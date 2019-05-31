@@ -1,4 +1,4 @@
-package main.java.com.mac.algorithms.codility.timecomplexity;
+package com.mac.algorithms.codility.timecomplexity;
 
 /**
  * A small frog wants to get to the other side of the road. The frog is currently located at position X and wants to get

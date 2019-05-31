@@ -31,7 +31,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.stackandqueue;
+package com.mac.algorithms.codilitysolution.stackandqueue;
 
 import java.util.Stack;
 

@@ -33,7 +33,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.leader;
+package com.mac.algorithms.codilitysolution.leader;
 
 import java.util.Stack;
 

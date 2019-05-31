@@ -31,7 +31,7 @@
  */
 
 //SCORE: 100/100 (both solutions)
-package com.mac.codilitysolution.caterpillar;
+package com.mac.algorithms.codilitysolution.caterpillar;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

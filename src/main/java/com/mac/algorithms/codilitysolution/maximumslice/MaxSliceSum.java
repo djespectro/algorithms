@@ -22,7 +22,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.maximumslice;
+package com.mac.algorithms.codilitysolution.maximumslice;
 
 public class MaxSliceSum {
 	public static void main(String[] args) {

@@ -24,7 +24,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.euclideanalgorithm;
+package com.mac.algorithms.codilitysolution.euclideanalgorithm;
 
 public class CommonPrimeDivisors {
 

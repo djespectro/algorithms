@@ -37,7 +37,7 @@
 */
 
 //SCORE: 100/100 (both solutions, caterpillar and binary search)
-package com.mac.codilitysolution.caterpillar;
+package com.mac.algorithms.codilitysolution.caterpillar;
 
 import java.util.Arrays;
 

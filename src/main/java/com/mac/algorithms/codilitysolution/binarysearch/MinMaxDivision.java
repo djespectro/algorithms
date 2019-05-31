@@ -40,7 +40,7 @@
  */
 
 //SCORE: 100/100 (both, recursive and iterative approach)
-package com.mac.codilitysolution.binarysearch;
+package com.mac.algorithms.codilitysolution.binarysearch;
 
 public class MinMaxDivision {
 

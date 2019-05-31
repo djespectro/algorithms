@@ -35,7 +35,7 @@
  */
 
 //SCORE: 100/100 (both solutions)
-package com.mac.codilitysolution.prefixsums;
+package com.mac.algorithms.codilitysolution.prefixsums;
 
 
 public class MinAvgTwoSlice {

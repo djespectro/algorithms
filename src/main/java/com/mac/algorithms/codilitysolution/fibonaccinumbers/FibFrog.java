@@ -47,7 +47,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.fibonaccinumbers;
+package com.mac.algorithms.codilitysolution.fibonaccinumbers;
 
 import java.util.ArrayList;
 import java.util.List;

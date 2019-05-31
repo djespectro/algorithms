@@ -35,7 +35,7 @@
  */
 
 //SCORE:100/100
-package com.mac.codilitysolution.prefixsums;
+package com.mac.algorithms.codilitysolution.prefixsums;
 
 import java.util.ArrayList;
 import java.util.Arrays;

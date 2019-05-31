@@ -29,7 +29,7 @@
  */
 
 //SCORE: 100/100
-package com.mac.codilitysolution.maximumslice;
+package com.mac.algorithms.codilitysolution.maximumslice;
 
 import java.util.Arrays;
 

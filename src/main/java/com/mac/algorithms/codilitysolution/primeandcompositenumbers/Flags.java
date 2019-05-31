@@ -49,7 +49,7 @@
  */
 
 //Score: 100/14
-package com.mac.codilitysolution.primeandcompositenumbers;
+package com.mac.algorithms.codilitysolution.primeandcompositenumbers;
 
 import java.util.ArrayList;
 

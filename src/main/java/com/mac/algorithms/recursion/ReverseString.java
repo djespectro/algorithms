@@ -1,7 +1,4 @@
-package main.java.com.mac.algorithms.leetcode.recursion;
-
-import java.util.Arrays;
-import java.util.Collections;
+package com.mac.algorithms.recursion;
 
 /**
  * Write a function that reverses a string. The input string is given as an array of characters char[].
